@@ -15,7 +15,7 @@ div {
     font-size: 30px;
     justify-content: center;
 }
-.canciones:hover{
+.cancion:hover{
     background-color: rgb(121, 121, 121);
 
 
@@ -67,3 +67,5 @@ div {
     justify-content: center;
     color: black;
 }
+
+
